@@ -7,7 +7,7 @@ Build a Streamlit App to create a search engine for McDonald's reviews.
 ## Run App:
 ```streamlit run app.py```
 
-# Outputs:
+# Result:
 ![Sample1](home1.png)
 ![Sample2](home2.png)
 ![Sample3](home3.png)
